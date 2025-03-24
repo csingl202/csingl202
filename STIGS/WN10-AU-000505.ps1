@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the maximum size of the security event log is at least 1024000 KB (1 GB).
+    This PowerShell script ensures that the maximum size of the Windows security event log is at least 1024000 KB (1 GB).
 
 .NOTES
     Author          : Clyde Singleton
