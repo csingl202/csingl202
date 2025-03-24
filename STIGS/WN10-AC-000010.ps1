@@ -1,3 +1,4 @@
+<#
 SYNOPSIS
     This PowerShell script ensures that the number of allowed bad logon attempts is equal to 3.
 
