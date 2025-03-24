@@ -22,6 +22,8 @@ SYNOPSIS
     Example syntax:
     PS C:\> .\__remediation_template(STIG-ID-WN10-AC-000010).ps1 
 #>
+
+
 # Set the Account Lockout Threshold to 3 invalid logon attempts
 $lockoutThreshold = 3
 
