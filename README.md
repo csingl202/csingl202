@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/csingl202/threat-hunting-scenario-tor)**
+- **[Threat Hunt Report: Suspicious Firefox Behavior](https://github.com/csingl202/threat-hunting-scenario-firefox)**
 
 <hr/>
 
