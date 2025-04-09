@@ -18,7 +18,7 @@ Hello, thank you for stopping by! Please feel free to check out some of the proj
 
 ## 🤳 IT Projects
 
-- **[Active Directory Simulation Using Oracle VirtualBox](https://github.com/csingl202/threat-hunting-scenario-tor)**
+- **[Active Directory Simulation Using Oracle VirtualBox](https://github.com/csingl202/active-directory-lab/blob/main/README.md)**
 
  
 
