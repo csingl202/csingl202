@@ -1,6 +1,6 @@
 # <a href="https://github.com/csingl202/">Clyde Singleton</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-Hello, thank you for stopping by! Please feel free to check out some of the projects that I’ve completed to enhance security operations and processes!
+Hello, thank you for stopping by!  I invite you to explore some of the projects I've completed to improve IT and security operations and processes!
 
 
 ## ⚠️ Vulnerability Management Projects
