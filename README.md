@@ -7,7 +7,7 @@ Hello, thank you for stopping by!  I invite you to explore some of the projects 
 
 - **[Vulnerability Management Program Implementation](https://github.com/csingl202/vulnerability_management_program)**
 - **[DISA STIGs - Remediations (PowerShell) ](https://github.com/csingl202/csingl202/tree/main/STIGS)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/csingl202/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and Bash)](https://github.com/csingl202/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
